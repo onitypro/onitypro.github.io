@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onitypro.github.io/sitemap
+Sitemap: https://onitypro.github.io/app/sitemap
+Sitemap: https://onitypro.github.io/assets/sitemap
+Sitemap: https://onitypro.github.io/css/sitemap
+Sitemap: https://onitypro.github.io/includes/sitemap
+Sitemap: https://onitypro.github.io/item/sitemap
+Sitemap: https://onitypro.github.io/src/sitemap
